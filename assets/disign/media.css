@@ -1,0 +1,36 @@
+@media (min-width: 320px) and (max-width: 425px) {
+  .contact {
+    text-align: center;
+  }
+
+  .c-logo {
+    margin-right: 3rem;
+    width: 150px;
+  }
+
+  .img-home {
+    margin-top: 1rem;
+  }
+
+  .c-home-btn {
+    margin: 0.5rem 0;
+  }
+
+  .foot-int {
+  }
+
+  .c-int {
+    margin-left: 6rem;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 400px) {
+  .c-logo {
+    margin-right: 0rem;
+    width: 100px;
+  }
+
+  .c-int {
+    margin-left: 3rem;
+  }
+}
